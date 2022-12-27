@@ -40,17 +40,3 @@ https://api.telegram.org/bot606248605:AAGv_TOJdNNMc_v3toHK_X6M-dev_1tG-JA/setWeb
 ### 創建Telegram機器人和取得token，請參考： 
 https://ithelp.ithome.com.tw/articles/10245264<br><br>
 https://tcsky.cc/tips-01-telegram-chatbot/
-
-
-
-
-
-# README
-
-This is the [Flask](http://flask.pocoo.org/) [quick start](http://flask.pocoo.org/docs/1.0/quickstart/#a-minimal-application) example for [Render](https://render.com).
-
-The app in this repo is deployed at [https://flask.onrender.com](https://flask.onrender.com).
-
-## Deployment
-
-Follow the guide at https://render.com/docs/deploy-flask.
