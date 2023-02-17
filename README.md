@@ -2,6 +2,8 @@
 # 一個Flask ChatGPT TelegramBot快速建置於平台Render。
 
 
+## [Vercel版本部屬](https://github.com/pyfbsdk59/Flask-ChatGPT-TelegramBot-Vercel)
+
 ### [English](https://github.com/pyfbsdk59/Flask-ChatGPT-TelegramBot-Render/blob/main/README_en.md)
 ### [日本語](https://github.com/pyfbsdk59/Flask-ChatGPT-TelegramBot-Render/blob/main/README_jp.md)
 
