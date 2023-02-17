@@ -18,12 +18,21 @@ https://israynotarray.com/nodejs/20221210/1224824056/
 https://zaoldyeck.medium.com/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E6%80%8E%E9%BA%BC%E6%89%93%E9%80%A0-telegram-bot-a7b539c3402a
 
 <div align="center">
-  <img src="demo/demo1.png" width="400"/>
+  <img src="demo/demo1.png" width="600"/>
+</div>
+
+<div align="center">
+  <img src="demo/demo2.png" width="700"/>
 </div>
 
 #### 3. 必須在Render的Environment Variables設定兩個環境變數，分別是OPENAI_API_KEY和TELEGRAM_BOT_TOKEN。然後開始部屬，可能要花上一些時間。成功後複製自己的URL。例如：
 
 https://xxx.onrender.com/
+
+<div align="center">
+  <img src="demo/demo3.png" width="700"/>
+</div>
+
 
 #### 4. 打開瀏覽器，輸入以下網址，設定webhook為部屬完Render的最後步驟，格式為：https://api.telegram.org/bot{$token}/setWebhook?url={$webhook_url}。
 
